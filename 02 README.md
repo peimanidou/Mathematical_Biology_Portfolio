@@ -8,6 +8,15 @@ and space are assumed to be unlimited. Under these
 conditions, tumor cells grow exponentially 
 without resource limitations.
 
+## Biological Context
+As described by Araujo & McElwain (2004):
+*"When the entire tissue volume was growing, 
+exponential growth was expected, with the growth 
+rate gradually reducing as the region of active 
+growth was progressively restricted to an outer 
+shell of tissue."*
+
+
 **Note:** The parameters do not follow real values and are used 
 purely for this specific modeling
 

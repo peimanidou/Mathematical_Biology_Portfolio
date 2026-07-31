@@ -9,7 +9,7 @@ conditions, tumor cells grow exponentially
 without resource limitations.
 
 ## Biological Context
-As described by Araujo & McElwain (2004):
+As described by R. P. Araujo and D. L. S. McElwain:
 *"When the entire tissue volume was growing, 
 exponential growth was expected, with the growth 
 rate gradually reducing as the region of active 

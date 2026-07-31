@@ -9,7 +9,7 @@ t=np.linspace(0,1000,num=2500) # bacteria growth being shown over 1000 time unit
 
 # Parameters we are using in the model
 
-r=0.1 # growth rate of bacteria
+r=0.1 # growth rate of bacteria (1/unit time)
 K=10000 # carrying capacity of the environment in which the bacteria are growing
 
 parameters=[r,K] # We define the parameters into a list so that is is easier to pass them into the odeint function

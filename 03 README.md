@@ -42,5 +42,8 @@ Where:
 - SciPy (odeint)
 - Matplotlib
 
+  ## Output
+![Gompertz Growth Model](03%20Gomperts%20Growth.png)
+
 ## Part of
 Mathematical Biology Portfolio 

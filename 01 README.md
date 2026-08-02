@@ -29,6 +29,9 @@ Where:
 - SciPy (odeint)
 - Matplotlib
 
+## Output
+![Logistic Growth Model](01%20Logistic%20Growth.png)
+
 ## Part of
 Mathematical Biology Portfolio →
 pathway to Mathematical Oncology

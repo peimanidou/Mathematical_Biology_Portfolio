@@ -43,7 +43,7 @@ Where:
 - Matplotlib
 
   ## Output
-![Gompertz Growth Model](03%20Gomperts%20Growth.png)
+![Gompertz Growth Model](03%20Gompertz%20Growth.png)
 
 ## Part of
 Mathematical Biology Portfolio 

@@ -28,10 +28,10 @@ Volume=odeint(gompertz_model,y0,t,args=(Parameters,)) # We use the odeint functi
 # Finally, we plot the results of the model to visualize the growth of the tumor that we have worked on over time 
 
 plt.plot(t,Volume[:,0],color='orange',linewidth=1.5,label=' Gompertz Tumor Growth Model')
-plt.title('Gompertz Tumor Growth Model',fontsize=15,fontweight='bold',color='brown')
+plt.title(' Gompertz Tumor Growth Model ',fontsize=15,fontweight='bold',color='brown')
 plt.xlabel('Time (in arbitrary units)',fontsize=10,color='brown')
 plt.ylabel('Volume of Tumor', fontsize=10,color='brown')
 plt.grid(alpha=0.5)
 plt.legend()
-plt.savefig("gompertz_tumor_growth_model.jpg", dpi=150)
+plt.savefig("gompertz_tumor_growth_model.png", dpi=150)
 plt.show()

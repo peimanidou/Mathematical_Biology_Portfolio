@@ -41,5 +41,8 @@ Where:
 - SciPy (odeint)
 - Matplotlib
 
+  ## Output
+![Exponential Growth Model](02%20Exponential%20Growth.png)
+
 ## Part of
 Mathematical Biology Portfolio 

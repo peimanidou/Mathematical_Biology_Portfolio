@@ -37,7 +37,7 @@ Where:
 | b | 1.0 | Volume scaling exponent |
 
 ## Output
-![von Bertalanffy Tumor Growth Model](von_bertalanffy_tumor_growth_model.png)
+![von Bertalanffy Tumor Growth Model](von_Bertalanffy_model.png)
 
 ## Tools
 - Python 3

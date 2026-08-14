@@ -12,9 +12,6 @@ The von Bertalanffy-Pütter growth equation models tumor dynamics as a balance b
 1. **Anabolism / Proliferation ($p \cdot V^a$):** Nutrient and energy inflow proportional to the tumor surface area ($a = 2/3$).
 2. **Catabolism / Cell Loss ($q \cdot V^b$):** Energy required for maintenance and cell death proportional to total tumor volume ($b = 1$).
 
-As tumor volume increases, catabolic loss eventually balances anabolic growth, reaching a theoretical carrying capacity:
-$$K = \left(\frac{p}{q}\right)^{\frac{1}{b-a}}$$
-
 ## The Model
 The von Bertalanffy-Pütter ODE:
 
@@ -37,7 +34,7 @@ Where:
 | b | 1.0 | Volume scaling exponent |
 
 ## Output
-![von Bertalanffy Tumor Growth Model](04_von_Bertalanffy_model.png)
+![von Bertalanffy Tumor Growth Model](04%20von%20Bertalanffy%20model.png)
 
 ## Tools
 - Python 3

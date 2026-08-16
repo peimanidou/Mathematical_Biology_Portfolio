@@ -5,7 +5,7 @@
 
 ## Biology Background
 
-One of the best known tumor growth model, originated in 1825 the Gompertz 
+One of the best known tumor growth models, originated in 1825, the Gompertz 
 has been shown to provide excellent fits to pre-clinical and clinical tumor growth data.
 It is visualised as an S-shaped (sigmoidal curve) where the inflection point occurs once 37% of the maximum tumor volume 
 has been reached
